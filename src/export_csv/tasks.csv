@@ -1,0 +1,7 @@
+title,parenttask,maxxp
+CPP_Task_0,null,400
+CPP_Task_1,CPP_Task_0,500
+CPP_Task_2,CPP_Task_1,600
+SQL_Task_3,CPP_Task_2,750
+SQL_Task_4,SQL_Task_3,800
+SQL_Task_5,SQL_Task_4,900

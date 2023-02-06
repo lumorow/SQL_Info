@@ -1,0 +1,10 @@
+id,peer,recommendedpeer
+1,Mzoraida,Leon
+2,Bumbum,Sivana
+3,Leon,Sivana
+4,Vovan,Mzoraida
+5,Mzoraida,Bumbum
+6,Sivana,Bumbum
+7,Sivana,Vovan
+8,Sivana,Mzoraida
+9,Mzoraida,Sivana
